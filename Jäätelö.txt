@@ -1,0 +1,8 @@
+Maku	Mista	Kuinka usein
+suklaa	kauppa	joka viikko
+vanilja	kioski	kerran kuussa
+mansikka	kauppa	paivittain
+kinuski	kauppa	paivittain
+suklaa	kioski	joka viikko
+vanilja	kauppa	kerran kuussa
+suklaa	kauppa	kerran kuussa
