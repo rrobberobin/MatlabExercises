@@ -1,1 +1,1 @@
-Solutions to Aalto's Matlab course
+Exercises from Aalto's Matlab course
